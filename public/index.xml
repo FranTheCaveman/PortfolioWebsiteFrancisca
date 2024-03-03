@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisca Nel</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Francisca Nel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C Portfolio for COMP500 [AUT]</title>
+      <link>//localhost:1313/posts/compportfolio/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/compportfolio/</guid>
+      <description>COMP500: Programming Concepts and Techniques Portfolio PDF - A level Below is the combined Part A and Part B portfolios for the COMP500 paper. If the preview does not work, click the link here. From the assignment brief&#xA;&amp;ldquo;The purpose of the Portfolio is for you to electronically record your personal COMP500/ENSE501- related learning activities throughout the semester as evidence of sustained learning. Each student’s Portfolio will be creative, unique, and personal – there is no prescribed, pre-made template to follow.</description>
+    </item>
+    <item>
+      <title>Ormiston Maths - My first software project</title>
+      <link>//localhost:1313/posts/ormistonmaths/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/ormistonmaths/</guid>
+      <description>This was a 2021 high school project for NCEA Achievement Standard AS91906: Use complex programming techniques to develop a computer program. I received an Excellence on this project.&#xA;The project involved developing a Python GUI Math Practice game (using TKinter) for primary school students to use.&#xA;The user enters their name and age on the front page The user can choose the operation type: Addition, Subtraction, Multiplication, and Division The user can also choose the difficulty: Easy, Intermediate, Hard The user answers a series of 10 math questions, after each, it is shown whether the answer is incorrect/correct After answering, the user can view all correct answers The user can appear on a 5-place leaderboard The user can then Retry/Log out User information (including past performance for the leaderboard) is recorded on txt files This was my first software project using object-oriented programming and GUI, so its not the prettiest!</description>
+    </item>
+    <item>
+      <title>Why did I actually choose Software Development?</title>
+      <link>//localhost:1313/posts/about/</link>
+      <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/about/</guid>
+      <description>In high school, I completely pursued the sciences because I was thinking of becoming a biomedical engineer. On the side, I took design as it was my passion - I loved drawing characters and I was excited about animation.&#xA;In my first year, I took the computer science course out of the interest of potentially making games, and because I was familiarised with computers and wanted to get better. I found it challenging and dropped it in my second year.</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about-me/</guid>
+      <description>About me</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/tags/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/projects/</guid>
+      <description>Projects</description>
+    </item>
+  </channel>
+</rss>

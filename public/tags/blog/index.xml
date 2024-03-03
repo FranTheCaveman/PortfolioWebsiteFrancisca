@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Francisca Nel</title>
+    <link>//localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on Francisca Nel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 1012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why did I actually choose Software Development?</title>
+      <link>//localhost:1313/posts/about/</link>
+      <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/about/</guid>
+      <description>In high school, I completely pursued the sciences because I was thinking of becoming a biomedical engineer. On the side, I took design as it was my passion - I loved drawing characters and I was excited about animation.&#xA;In my first year, I took the computer science course out of the interest of potentially making games, and because I was familiarised with computers and wanted to get better. I found it challenging and dropped it in my second year.</description>
+    </item>
+  </channel>
+</rss>

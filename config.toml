@@ -1,0 +1,45 @@
+baseURL = ""
+languageCode = 'en-us'
+title = 'Francisca Nel'
+theme = "m10c"
+
+[params]
+  author = "Francisca Helena Nel"
+  description = "/////// WORK IN PROGRESS /////// A University student who enjoys developing software and combining it with their passion for creative design, and applying this knowledge to enhancing IT business processes"
+  avatar = "img/me.png"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/FranTheCaveman"
+  [[params.social]]
+    icon = "linkedin"
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/francisca-nel-3b9276277/"
+
+### MENUS ###
+
+[[menu.main]]
+  identifier = "Blog"
+  name = "Blog"
+  url = "/tags/blog/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "Projects"
+  name = "Projects"
+  url = "/tags/projects/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about"
+  name = "About me"
+  url = "/About-me/"
+  weight = 3
+
+[params.style]
+  darkestColor = "#1f1f29"
+  darkColor = "#2a2a36"
+  #lightColor = "#c1a36f"
+  #lightestColor = "#e8c284"
+  primaryColor = "#c1a36f"
