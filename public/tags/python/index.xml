@@ -6,12 +6,12 @@
     <description>Recent content in Python on Francisca Nel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ormiston Maths - My first software project</title>
       <link>//localhost:1313/posts/ormistonmaths/</link>
-      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/ormistonmaths/</guid>
       <description>This was a 2021 high school project for NCEA Achievement Standard AS91906: Use complex programming techniques to develop a computer program. I received an Excellence on this project.&#xA;The project involved developing a Python GUI Math Practice game (using TKinter) for primary school students to use.&#xA;The user enters their name and age on the front page The user can choose the operation type: Addition, Subtraction, Multiplication, and Division The user can also choose the difficulty: Easy, Intermediate, Hard The user answers a series of 10 math questions, after each, it is shown whether the answer is incorrect/correct After answering, the user can view all correct answers The user can appear on a 5-place leaderboard The user can then Retry/Log out User information (including past performance for the leaderboard) is recorded on txt files This was my first software project using object-oriented programming and GUI, so its not the prettiest!</description>
     </item>

@@ -1,7 +1,7 @@
 +++
 title = "Why did I actually choose Software Development?"
 tags = ["Blog"]
-date = "1012-01-01"
+date = "2024-03-03"
 +++
 
 In high school, I completely pursued the sciences because I was thinking of becoming a biomedical engineer. On the side, I took design as it was my passion - I loved drawing characters and I was excited about animation.

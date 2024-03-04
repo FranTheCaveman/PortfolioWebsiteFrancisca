@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AUT on Francisca Nel</title>
-    <link>//localhost:1313/tags/aut/</link>
-    <description>Recent content in AUT on Francisca Nel</description>
+    <title>Java on Francisca Nel</title>
+    <link>//localhost:1313/tags/java/</link>
+    <description>Recent content in Java on Francisca Nel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/aut/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>C Portfolio for COMP500 [AUT]</title>
-      <link>//localhost:1313/posts/compportfolio/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/compportfolio/</guid>
-      <description>COMP500: Programming Concepts and Techniques Portfolio PDF - A level Below is the combined Part A and Part B portfolios for the COMP500 paper. If the preview does not work, click the link here. From the assignment brief&#xA;&amp;ldquo;The purpose of the Portfolio is for you to electronically record your personal COMP500/ENSE501- related learning activities throughout the semester as evidence of sustained learning. Each student’s Portfolio will be creative, unique, and personal – there is no prescribed, pre-made template to follow.</description>
-    </item>
+    <atom:link href="//localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shareversity</title>
       <link>//localhost:1313/posts/shareversity/</link>

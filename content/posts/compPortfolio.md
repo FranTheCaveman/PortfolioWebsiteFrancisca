@@ -1,17 +1,17 @@
 +++
 title = "C Portfolio for COMP500 [AUT]"
-tags = ["Projects", "C", "University", "AUT"]
-date = "2024-01-04"
+tags = ["Projects", "C", "University", "AUT", "COMP500"]
+date = "2024-03-03"
 +++
 
 ### COMP500: Programming Concepts and Techniques Portfolio PDF - A level
 
 Below is the combined Part A and Part B portfolios for the COMP500 paper. If the preview does not work, click the link [here](https://drive.google.com/file/d/1vvNUeOy3MMHKdj_uqZzY9TQI1E73rEyt/view).
-{{< googlePdfReader >}}
+{{< shortcodesnippet >}}
 
     <iframe src="https://drive.google.com/file/d/1vvNUeOy3MMHKdj_uqZzY9TQI1E73rEyt/preview" width="640" height="480" allow="autoplay"></iframe>
 
-{{< /googlePdfReader >}}
+{{< /shortcodesnippet >}}
 
 From the assignment brief
 

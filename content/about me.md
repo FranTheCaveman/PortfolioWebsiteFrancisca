@@ -44,7 +44,7 @@ Additionally, I will be visiting R Studio and R in another business paper to lea
 | S1     | COMP501 | Computing   Technology in Society                   | 5     | A+    | 15.00  |
 | S1     | BUSS505 | Consumer   and Organisational Behaviour             | 5     | A+    | 15.00  |
 | S1     | BUSS509 | Ethics,   Responsibility and Sustainability         | 5     | A+    | 15.00  |
-| S1     | COMP500 | Programming   Concepts and Techniques               | 5     | A+    | 15.00  |
+| S1     | [COMP500](/posts/compportfolio/) | Programming Concepts and Techniques               | 5     | A+    | 15.00  |
 | S2     | COMP508 | Database   System Design                            | 5     | A+    | 15.00  |
 | S2     | BUSS508 | Economics   and International Business              | 5     | A+    | 15.00  |
 | S2     | BUSS507 | Financial   Decision Making and Information Systems | 5     | A+    | 15.00  |

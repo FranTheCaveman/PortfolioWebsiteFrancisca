@@ -6,26 +6,33 @@
     <description>Recent content in Posts on Francisca Nel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C Portfolio for COMP500 [AUT]</title>
       <link>//localhost:1313/posts/compportfolio/</link>
-      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/compportfolio/</guid>
       <description>COMP500: Programming Concepts and Techniques Portfolio PDF - A level Below is the combined Part A and Part B portfolios for the COMP500 paper. If the preview does not work, click the link here. From the assignment brief&#xA;&amp;ldquo;The purpose of the Portfolio is for you to electronically record your personal COMP500/ENSE501- related learning activities throughout the semester as evidence of sustained learning. Each student’s Portfolio will be creative, unique, and personal – there is no prescribed, pre-made template to follow.</description>
     </item>
     <item>
       <title>Ormiston Maths - My first software project</title>
       <link>//localhost:1313/posts/ormistonmaths/</link>
-      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/ormistonmaths/</guid>
       <description>This was a 2021 high school project for NCEA Achievement Standard AS91906: Use complex programming techniques to develop a computer program. I received an Excellence on this project.&#xA;The project involved developing a Python GUI Math Practice game (using TKinter) for primary school students to use.&#xA;The user enters their name and age on the front page The user can choose the operation type: Addition, Subtraction, Multiplication, and Division The user can also choose the difficulty: Easy, Intermediate, Hard The user answers a series of 10 math questions, after each, it is shown whether the answer is incorrect/correct After answering, the user can view all correct answers The user can appear on a 5-place leaderboard The user can then Retry/Log out User information (including past performance for the leaderboard) is recorded on txt files This was my first software project using object-oriented programming and GUI, so its not the prettiest!</description>
     </item>
     <item>
+      <title>Shareversity</title>
+      <link>//localhost:1313/posts/shareversity/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/shareversity/</guid>
+      <description>COMP603: Program Design and Construction - Project 1&amp;amp;2 A+ level Shareversity was a collaborative project that involved designing a hypothetical shares trading platform&#xA;Share prices over time are randomly generated You can buy shares from a selected date, then sell these shares with its value relative to its cost per share in the present Features include:&#xA;Implementation of a graphical user interface Wallet topup and withdraw system The Purchasing of shares (high and low risk) Displaying interactive graphs: clicking a date selects the day the user wants to invest A Login system A portfolio page displaying the user&amp;rsquo;s current investments and investment statistics An Investment page displaying investments avaliable to the user, with information provided for each A local database storing usernames, passwords, wallet, and portfolio information You can find the project on Github here</description>
+    </item>
+    <item>
       <title>Why did I actually choose Software Development?</title>
       <link>//localhost:1313/posts/about/</link>
-      <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/about/</guid>
       <description>In high school, I completely pursued the sciences because I was thinking of becoming a biomedical engineer. On the side, I took design as it was my passion - I loved drawing characters and I was excited about animation.&#xA;In my first year, I took the computer science course out of the interest of potentially making games, and because I was familiarised with computers and wanted to get better. I found it challenging and dropped it in my second year.</description>
     </item>

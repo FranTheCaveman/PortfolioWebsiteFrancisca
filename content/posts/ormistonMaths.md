@@ -1,7 +1,7 @@
 +++
 title = "Ormiston Maths - My first software project"
 tags = ["Projects", "Python"]
-date = "2024-01-04"
+date = "2024-03-03"
 +++
 
 ![fd](/img/OrmistonMathsPreview.gif)
