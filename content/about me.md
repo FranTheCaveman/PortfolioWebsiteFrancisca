@@ -60,7 +60,7 @@ Additionally, I will be visiting R Studio and R in another business paper to lea
 | S1     | COMP503 | Programming 2                       | 5     | A+    | 15.00  |
 | S2     | BSYS602 | Business Data Management            | 6     | A+    | 15.00  |
 | S2     | COMP507 | IT Project Management               | 5     | A+    | 15.00  |
-| S2     | COMP603 | Program Design and Construction     | 6     | A+    | 15.00  |
+| S2     | [COMP603](/posts/shareversity/) | Program Design and Construction     | 6     | A+    | 15.00  |
 | S2     | BSYS603 | Project Management                  | 6     | A+    | 15.00  |
 
 #### Year 3 / 2024
