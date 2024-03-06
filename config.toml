@@ -5,7 +5,7 @@ theme = "m10c"
 
 [params]
   author = "Francisca Helena Nel"
-  description = "/////// WORK IN PROGRESS /////// A University student who enjoys developing software and combining it with their passion for creative design, and applying this knowledge to enhancing IT business processes"
+  description = "A University student who enjoys developing software and combining it with their passion for creative design"
   avatar = "img/me.jpg"
   menu_item_separator = " - "
   [[params.social]]

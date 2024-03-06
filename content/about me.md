@@ -16,7 +16,7 @@ I would consider myself a jack-of-all-trades. I am creatively oriented, and I en
 ### What are my hobbies?
 
 - Drawing - Traditional and Digital
-- Video games - I am enjoying Baldur's Gate
+- Video games - I am currently enjoying Baldur's Gate
 - Practicing guitar (I'm not very good yet) and the penny whistle (slightly better, but still not great)
 
 ### What am I studying?
