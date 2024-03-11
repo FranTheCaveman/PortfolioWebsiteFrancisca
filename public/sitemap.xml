@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/tags/bpm/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/bsys601/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/bsys602/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/business/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/simulation-workshop-assignment/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/comp508/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/database/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/database-project-assignment---bcis/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/database-project-assignment---business/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/erd/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/information-systems/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/projects/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/sql/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/aut/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,28 +68,16 @@
     <loc>//localhost:1313/tags/comp603/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/java/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/ormistonmaths/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/projects/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/python/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/shareversity/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/university/</loc>

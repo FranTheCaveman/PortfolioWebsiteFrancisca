@@ -44,8 +44,8 @@ Additionally, I will be visiting R Studio and R in another business paper to lea
 | S1     | COMP501 | Computing   Technology in Society                   | 5     | A+    | 15.00  |
 | S1     | BUSS505 | Consumer   and Organisational Behaviour             | 5     | A+    | 15.00  |
 | S1     | BUSS509 | Ethics,   Responsibility and Sustainability         | 5     | A+    | 15.00  |
-| S1     | [COMP500](/posts/compportfolio/) | Programming Concepts and Techniques               | 5     | A+    | 15.00  |
-| S2     | COMP508 | Database   System Design                            | 5     | A+    | 15.00  |
+| S1     | [COMP500](/tags/COMP500/) | Programming Concepts and Techniques               | 5     | A+    | 15.00  |
+| S2     | [COMP508](/tags/COMP508/) | Database   System Design                            | 5     | A+    | 15.00  |
 | S2     | BUSS508 | Economics   and International Business              | 5     | A+    | 15.00  |
 | S2     | BUSS507 | Financial   Decision Making and Information Systems | 5     | A+    | 15.00  |
 | S2     | MATH503 | Mathematics   for Computing                         | 5     | A+    | 15.00  |
@@ -55,12 +55,12 @@ Additionally, I will be visiting R Studio and R in another business paper to lea
 | Period | Class      | Description                         | Level | Grade | Points |
 |--------|------------|:-------------------------------------|-------|-------|--------|
 | S1     | BSYS501 | Business Information Systems        | 5     | A+    | 15.00  |
-| S1     | BSYS601 | Business Process Management         | 6     | A+    | 15.00  |
+| S1     | [BSYS601](/tags/BSYS601/) | Business Process Management         | 6     | A+    | 15.00  |
 | S1     | DIGD507 | Mahitahi \| Collaborative Practices | 5     | A+    | 15.00  |
 | S1     | COMP503 | Programming 2                       | 5     | A+    | 15.00  |
-| S2     | BSYS602 | Business Data Management            | 6     | A+    | 15.00  |
+| S2     | [BSYS602](/tags/BSYS602/) | Business Data Management            | 6     | A+    | 15.00  |
 | S2     | COMP507 | IT Project Management               | 5     | A+    | 15.00  |
-| S2     | [COMP603](/posts/shareversity/) | Program Design and Construction     | 6     | A+    | 15.00  |
+| S2     | [COMP603](/tags/COMP603/) | Program Design and Construction     | 6     | A+    | 15.00  |
 | S2     | BSYS603 | Project Management                  | 6     | A+    | 15.00  |
 
 #### Year 3 / 2024

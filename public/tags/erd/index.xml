@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ERD on Francisca Nel</title>
+    <link>//localhost:1313/tags/erd/</link>
+    <description>Recent content in ERD on Francisca Nel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/erd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Project Assignment - BCIS</title>
+      <link>//localhost:1313/posts/database-project-assignment---bcis/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/database-project-assignment---bcis/</guid>
+      <description>COMP508: Database System Design - Database Project Assignment - A+ level (100%) Below is the Database Project Assignment for the COMP508 paper. If the preview does not work, click the link here. Summary This project involved&#xA;Analysing a case study to develop the business rules Designing a logical Entity Relationship Diagram Creating tables in Oracle SQL Populating the tables with data Constructing SQL queries, working with the populated data Case Study for Database Project Assignment&#xD;&amp;ldquo;A major faculty consisting of many Departments in the Whangarei University of Technology (WUT) has approached you for the design and implementation of a relational database system.</description>
+    </item>
+    <item>
+      <title>Database Project Assignment - Business Data Management</title>
+      <link>//localhost:1313/posts/database-project-assignment---business/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/database-project-assignment---business/</guid>
+      <description>BSYS602: Business Data Management - Workshop Individual Assignment 3 - A+ level Below is the Workshop Individual Assignment 3 for the BSYS602 paper. If the preview does not work, click the link here. Summary This project involved&#xA;Analysing a case study and its business rules to design a Entity Relationship Diagram (in 2nd normal form) Describing the normalisation process, normalising the ERD to 3rd normal form Constructing SQL queries for the hypothetical database Case Study for Database Project Assignment&#xD;&amp;ldquo;Nature-Oriented Scenic Tours (NOST) provides guided tours to groups of visitors to NZ’s North Island.</description>
+    </item>
+  </channel>
+</rss>

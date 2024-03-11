@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Francisca Nel</title>
+    <link>//localhost:1313/tags/business/</link>
+    <description>Recent content in Business on Francisca Nel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Process Modelling - Simulation Workshop Assignment</title>
+      <link>//localhost:1313/posts/simulation-workshop-assignment/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/simulation-workshop-assignment/</guid>
+      <description>BSYS601: Business Process Management - Simulation Workshop Assignment - A+ level (100%) Below is the Simulation Workshop Assignment doc for the BSYS601 paper. If the preview does not work, click the link here. Below is the Simulation Workshop Claim handling process diagram. If the preview does not work, click the link here. Below is the Simulation output from Signavio. If the preview does not work, click the link here. Case Study&#xD;An insurance company, AAA, believes that they should take a careful look at the performance of their claim-to-resolution process.</description>
+    </item>
+    <item>
+      <title>Database Project Assignment - Business Data Management</title>
+      <link>//localhost:1313/posts/database-project-assignment---business/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/database-project-assignment---business/</guid>
+      <description>BSYS602: Business Data Management - Workshop Individual Assignment 3 - A+ level Below is the Workshop Individual Assignment 3 for the BSYS602 paper. If the preview does not work, click the link here. Summary This project involved&#xA;Analysing a case study and its business rules to design a Entity Relationship Diagram (in 2nd normal form) Describing the normalisation process, normalising the ERD to 3rd normal form Constructing SQL queries for the hypothetical database Case Study for Database Project Assignment&#xD;&amp;ldquo;Nature-Oriented Scenic Tours (NOST) provides guided tours to groups of visitors to NZ’s North Island.</description>
+    </item>
+  </channel>
+</rss>

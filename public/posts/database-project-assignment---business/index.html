@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>Database Project Assignment - Business Data Management // Francisca Nel</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.123.7">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Francisca Helena Nel" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.2e7caf39f62b2c98ec59a7e1ee7098a95bab36ac5ce4f99d189943afa6172a17.css" />
+    
+
+    
+    <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Database Project Assignment - Business Data Management"/>
+<meta name="twitter:description" content="BSYS602: Business Data Management - Workshop Individual Assignment 3 - A&#43; level Below is the Workshop Individual Assignment 3 for the BSYS602 paper. If the preview does not work, click the link here. Summary This project involved
+Analysing a case study and its business rules to design a Entity Relationship Diagram (in 2nd normal form) Describing the normalisation process, normalising the ERD to 3rd normal form Constructing SQL queries for the hypothetical database Case Study for Database Project Assignment&ldquo;Nature-Oriented Scenic Tours (NOST) provides guided tours to groups of visitors to NZ’s North Island."/>
+
+    <meta property="og:title" content="Database Project Assignment - Business Data Management" />
+<meta property="og:description" content="BSYS602: Business Data Management - Workshop Individual Assignment 3 - A&#43; level Below is the Workshop Individual Assignment 3 for the BSYS602 paper. If the preview does not work, click the link here. Summary This project involved
+Analysing a case study and its business rules to design a Entity Relationship Diagram (in 2nd normal form) Describing the normalisation process, normalising the ERD to 3rd normal form Constructing SQL queries for the hypothetical database Case Study for Database Project Assignment&ldquo;Nature-Oriented Scenic Tours (NOST) provides guided tours to groups of visitors to NZ’s North Island." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//localhost:1313/posts/database-project-assignment---business/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-03-11T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-03-11T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="//localhost:1313/"><img class="app-header-avatar" src="/img/me.jpg" alt="Francisca Helena Nel" /></a>
+      <span class="app-header-title">Francisca Nel</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/tags/blog/">Blog</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/projects/">Projects</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/about-me/">About me</a>
+      </nav>
+      <p>A University student who enjoys developing software and combining it with their passion for creative design, and applying this knowledge to enhancing IT business processes</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/FranTheCaveman" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://www.linkedin.com/in/francisca-nel-3b9276277/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>Linkedin</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Database Project Assignment - Business Data Management</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Mar 11, 2024
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          3 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+              <a class="tag" href="//localhost:1313/tags/sql/">SQL</a>
+              <a class="tag" href="//localhost:1313/tags/information-systems/">Information Systems</a>
+              <a class="tag" href="//localhost:1313/tags/database/">Database</a>
+              <a class="tag" href="//localhost:1313/tags/erd/">ERD</a>
+              <a class="tag" href="//localhost:1313/tags/projects/">Projects</a>
+              <a class="tag" href="//localhost:1313/tags/business/">Business</a>
+              <a class="tag" href="//localhost:1313/tags/bsys602/">BSYS602</a>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <h3 id="bsys602-business-data-management---workshop-individual-assignment-3---a-level">BSYS602: Business Data Management - Workshop Individual Assignment 3 - A+ level</h3>
+<p>Below is the Workshop Individual Assignment 3 for the BSYS602 paper. If the preview does not work, click the link <a href="https://drive.google.com/file/d/1Zhu-xM-T_9uY6zMno6UlVDXUwJwl5nHe/view">here</a>.
+
+
+
+    <iframe src="https://drive.google.com/file/d/1Zhu-xM-T_9uY6zMno6UlVDXUwJwl5nHe/preview" width="640" height="480" allow="autoplay"></iframe>
+
+</p>
+<h4 id="summary">Summary</h4>
+<p>This project involved</p>
+<ol>
+<li>Analysing a case study and its business rules to design a Entity Relationship Diagram (in 2nd normal form)</li>
+<li>Describing the normalisation process, normalising the ERD to 3rd normal form</li>
+<li>Constructing SQL queries for the hypothetical database</li>
+</ol>
+<details>
+    <summary>Case Study for Database Project Assignment</summary>
+    <p>&ldquo;Nature-Oriented Scenic Tours (NOST) provides guided tours to groups of visitors to
+NZ’s North Island. In recent years, NOST has grown quickly and is having difficulty
+keeping up with all the various information needs of the company. The company’s
+CEO has asked you to help them design a database to manage data to support their
+growing business.
+Create an ERD based on the following business rules and requirements.</p>
+<ul>
+<li>
+<p>NOST offers many different tours. For each tour, the tour name, approximate
+length (in hours), and fees charged is needed.</p>
+</li>
+<li>
+<p>Tours are classified into five categories: family friendly, adventure, hiking,
+camping, and water activities.</p>
+</li>
+<li>
+<p>Guides are identified by an employee ID, but the system should also record a
+guide’s name, home address, and date of hire.</p>
+</li>
+<li>
+<p>Guides take a test to be qualified to lead specific tours. It is important to know
+which guides are qualified to lead which tours and the date that they
+completed the qualification test for each tour. A guide may be qualified to lead
+many different tours. A tour can have many different qualified guides. New
+guides may or may not be qualified to lead any tours, just as a new tour may
+or may not have any qualified guides.</p>
+</li>
+<li>
+<p>Every tour must be designed to visit at least three locations. For each
+location, a name, type, and official description are kept. Some locations (such
+as the Hobbiton) are visited by more than one tour, while others (such as the
+Glow Worm cave) are visited by a single tour. All locations are visited by at
+least one tour.</p>
+</li>
+<li>
+<p>When a tour is actually given, it is referred to as an “outing.” NOST schedules
+outings well in advance so they can be advertised and so employees can
+understand their upcoming work schedules. A tour can have many scheduled
+outings, although newly designed tours may not have any outings scheduled.
+Each outing is for a single tour and is scheduled for a particular date and time.
+All outings must be associated with a tour. All tours at NOST are guided tours,
+so a guide must be assigned to each outing. Each outing has one and only
+one guide. Guides are occasionally asked to lead an outing of a tour even if
+they are not officially qualified to lead that tour. Newly hired guides may not
+have been scheduled to lead any outings.&rdquo;</p>
+</li>
+<li>
+<p>Tourists, called “clients” by NOST, pay to join a scheduled outing. For each
+client, the name, address, and telephone number are recorded. Clients may
+sign up to join many different outings, and each outing can have many clients.
+For each scheduled outing, NOST would like to keep track of the number of
+parties who will join the scheduled outing (i.e. number of people). Information
+is kept only on clients who have signed up for at least one outing, although
+newly scheduled outings may not have any clients signed up yet.</p>
+</li>
+<li>
+<p>Clients are billed for a scheduled outing that they book. A bill is produced for a
+client-outing booking. A bill includes date, charge amount, pay amount and
+remaining balance. For example, some clients may choose to pay their fees in
+allotments; therefore, NOST must keep track of the current pay amount and
+remaining balance. Each booking produces one and only one bill.</p>
+</li>
+</ul>
+
+</details>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

@@ -6,8 +6,78 @@
     <description>Recent content in Tags on Francisca Nel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BPM</title>
+      <link>//localhost:1313/tags/bpm/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/bpm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BSYS601</title>
+      <link>//localhost:1313/tags/bsys601/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/bsys601/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BSYS602</title>
+      <link>//localhost:1313/tags/bsys602/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/bsys602/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>//localhost:1313/tags/business/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COMP508</title>
+      <link>//localhost:1313/tags/comp508/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/comp508/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>//localhost:1313/tags/database/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ERD</title>
+      <link>//localhost:1313/tags/erd/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/erd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Information Systems</title>
+      <link>//localhost:1313/tags/information-systems/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/information-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/tags/projects/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>//localhost:1313/tags/sql/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sql/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AUT</title>
       <link>//localhost:1313/tags/aut/</link>
@@ -48,13 +118,6 @@
       <link>//localhost:1313/tags/java/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/java/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>//localhost:1313/tags/projects/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/projects/</guid>
       <description></description>
     </item>
     <item>
