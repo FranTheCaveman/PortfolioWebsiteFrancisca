@@ -7,6 +7,7 @@ date = "2024-03-03"
 ### COMP500: Programming Concepts and Techniques Portfolio PDF - A level
 
 Below is the combined Part A and Part B portfolios for the COMP500 paper. If the preview does not work, click the link [here](https://drive.google.com/file/d/1vvNUeOy3MMHKdj_uqZzY9TQI1E73rEyt/view).
+
 {{< shortcodesnippet >}}
 
     <iframe src="https://drive.google.com/file/d/1vvNUeOy3MMHKdj_uqZzY9TQI1E73rEyt/preview" width="640" height="480" allow="autoplay"></iframe>
