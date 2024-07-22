@@ -1,6 +1,6 @@
 +++
 title = "Ormiston Maths - My first software project"
-tags = ["Projects", "Python"]
+tags = ["Projects", "Python", "Blog"]
 date = "2024-03-03"
 +++
 

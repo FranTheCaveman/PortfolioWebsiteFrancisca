@@ -1,7 +1,7 @@
 +++
 title = "Business Process Modelling - Simulation Workshop Assignment"
-tags = ["BPM", "Information Systems", "Business", "Projects"
-, "BSYS601", "Signavio"]
+tags = ["BPM", "Information Systems", "Business"
+, "BSYS601", "Signavio", "Blog"]
 date = "2024-03-11"
 +++
 
@@ -9,6 +9,7 @@ date = "2024-03-11"
 ### BSYS601: Business Process Management - Simulation Workshop Assignment - A+ level (100%)
 
 Below is the Simulation Workshop Assignment doc for the BSYS601 paper. If the preview does not work, click the link [here](https://drive.google.com/file/d/1V25qn4DyoiYgnP_XPjEIV0trFuCe9VB2/view).
+
 {{< shortcodesnippet >}}
 
     <iframe src="https://drive.google.com/file/d/1V25qn4DyoiYgnP_XPjEIV0trFuCe9VB2/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -16,6 +17,7 @@ Below is the Simulation Workshop Assignment doc for the BSYS601 paper. If the pr
 {{< /shortcodesnippet >}}
 
 Below is the Simulation Workshop Claim handling process diagram. If the preview does not work, click the link [here](https://drive.google.com/file/d/1IbBJvZ7otTEDEXpnCzkVsT3WI2qXRVso/view).
+
 {{< shortcodesnippet >}}
 
     <iframe src="https://drive.google.com/file/d/1IbBJvZ7otTEDEXpnCzkVsT3WI2qXRVso/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -23,6 +25,7 @@ Below is the Simulation Workshop Claim handling process diagram. If the preview 
 {{< /shortcodesnippet >}}
 
 Below is the Simulation output from Signavio. If the preview does not work, click the link [here](https://drive.google.com/file/d/14ByfvgU4qdYuzXvccbyyGZlQdXVr4tsa/view).
+
 {{< shortcodesnippet >}}
 
     <iframe src="https://drive.google.com/file/d/14ByfvgU4qdYuzXvccbyyGZlQdXVr4tsa/preview" width="640" height="480" allow="autoplay"></iframe>

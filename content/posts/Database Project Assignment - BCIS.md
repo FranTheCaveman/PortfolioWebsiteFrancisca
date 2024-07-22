@@ -1,6 +1,6 @@
 +++
 title = "Database Project Assignment - BCIS"
-tags = ["SQL", "Information Systems", "Database", "ERD", "Projects", "COMP508"]
+tags = ["SQL", "Information Systems", "Database", "ERD", "COMP508", "Blog"]
 date = "2024-03-11"
 +++
 

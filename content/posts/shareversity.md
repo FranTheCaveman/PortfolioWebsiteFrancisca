@@ -1,6 +1,6 @@
 +++
 title = "Shareversity"
-tags = ["Projects", "Java", "University", "AUT", "COMP603"]
+tags = ["Projects", "Java", "University", "AUT", "COMP603", "Blog"]
 date = "2024-03-03"
 +++
 

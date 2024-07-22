@@ -1,6 +1,6 @@
 +++
 title = "C Portfolio for COMP500 [AUT]"
-tags = ["Projects", "C", "University", "AUT", "COMP500"]
+tags = ["Projects", "C", "University", "AUT", "COMP500", "Blog"]
 date = "2024-03-03"
 +++
 
